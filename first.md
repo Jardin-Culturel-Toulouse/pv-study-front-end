@@ -60,3 +60,7 @@ The **sense** is expressed as a **definition** that can be completed with a set 
 *As a* **student**
 *I want* to be view a list of **PVs** by frequency of usage
 *so that* I can study the most popular **PVs**.
+
+*As a* **student**
+*I want* to share my progress with my friends via Facebook, Twitter
+*so that* I can show off.
